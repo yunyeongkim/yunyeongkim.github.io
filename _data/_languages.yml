@@ -1,0 +1,11 @@
+en:
+  title: "Categories"
+  description: "Browse posts by category."
+  toggle_text: "한국어로 보기"
+  lang_switch: "ko"
+
+ko:
+  title: "카테고리"
+  description: "카테고리별로 글을 찾아보세요."
+  toggle_text: "View in English"
+  lang_switch: "en"
