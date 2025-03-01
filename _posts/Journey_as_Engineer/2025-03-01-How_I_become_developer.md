@@ -1,5 +1,5 @@
 ---
-title: "비전공자가 EA, TikTok 오퍼레터를 받기까지 (1) - 시작점"
+title: "비전공자가 EA, TikTok 오퍼레터를 받기까지 4년 (1) - 시작점"
 date: 2025-01-20
 categories: [Career , 비전공 개발자 성장일지]
 tags: [취업, 비전공자, EA, TikTok, 개발자, 커리어]

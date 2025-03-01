@@ -16,7 +16,7 @@ timezone:
 
 title: Yunyeong Kim # the main title
 
-tagline: DevOps Engineer # it will display as the subtitle
+tagline: My personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Github Blog.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D5603AQEcQN8MoXhgrg/profile-displayphoto-shrink_800_800/B56ZVQLN64GUAc-/0/1740806873758?e=1746057600&v=beta&t=htxcOt4UfhUk4sO73Ki99ZN1HBgnvkUpcGhp2HveVh4
+avatar: https://avatars.githubusercontent.com/u/61379218?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
